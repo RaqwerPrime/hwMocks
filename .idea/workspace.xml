@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34f1983a-6bc9-4552-bf02-0981e491558e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Cycles/Cycles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DateAndTime/DateAndTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DateTime/DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/DriverlessCar/DriverlessCar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/EncapsulationsExperiments/EncapsulationsExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FactorialCalculator/FactorialCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FilinfStation/FilinfStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/FilingStation/FilingStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Immutabillity/Immutabillity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Ispravlenie/Ispravlenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Kata/Kata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/PRAKTIKA 27/PRAKTIKA 27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Praktika 27 2/Praktika 27 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/Praktika 4.RAZDEL/Praktika 4.RAZDEL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/calc2/calc2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/cash/cash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/conditions/conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/gotovyiCalc/gotovyiCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/homework 13.11/homework 13.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/internetShop/internetShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/osnovaniuJava/osnovaniuJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/paraktikakaaa 26/paraktikakaaa 26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika/praktika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika2/06_PrimitiveDataTypes/IntOrInteger/IntOrInteger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktika2/praktika2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praktikaDom/praktikaDom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/praltika06.11.24/praltika06.11.24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../old Prj/proveka/proveka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ДЗ1/1. lambda/.idea/1. lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ДЗ1/1. lambda/lambda/.idea/lambda.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yxMAUY6bRTjAYeJvIhUz9pTtJD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.GeoServiceImplTest and 2 more.executor": "Run",
+    "JUnit.GeoServiceImplTest.biIpUnknown.executor": "Run",
+    "JUnit.GeoServiceImplTest.byIpMoscow.executor": "Run",
+    "JUnit.GeoServiceImplTest.byIpRussian.executor": "Run",
+    "JUnit.GeoServiceImplTest.byIpUnknown.executor": "Run",
+    "JUnit.GeoServiceImplTest.byIpUsaTest.executor": "Run",
+    "JUnit.GeoServiceImplTest.executor": "Run",
+    "JUnit.LocalizationServiceImplTest.localeGermanyTest.executor": "Run",
+    "JUnit.LocalizationServiceImplTest.localeRussiaTest.executor": "Run",
+    "JUnit.LocalizationServiceImplTest.localeUsaTest.executor": "Run",
+    "JUnit.MessageSenderImplTest.executor": "Run",
+    "JUnit.MessageSenderImplTest.sendReturnAmericanTextUsaIp.executor": "Run",
+    "JUnit.MessageSenderImplTest.sendReturnRussianTextRusIp.executor": "Run",
+    "Maven.geo-service [site].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.GeoServiceImplTest.byIpUnknown">
+    <configuration name="GeoServiceImplTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="GeoServiceImplTest" />
+        <pattern testClass="LocalizationServiceImplTest" />
+        <pattern testClass="MessageSenderImplTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoServiceImplTest.byIpMoscow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeoServiceImplTest" />
+      <option name="METHOD_NAME" value="byIpMoscow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoServiceImplTest.byIpUnknown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GeoServiceImplTest" />
+      <option name="METHOD_NAME" value="byIpUnknown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalizationServiceImplTest.localeGermanyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalizationServiceImplTest" />
+      <option name="METHOD_NAME" value="localeGermanyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalizationServiceImplTest.localeUsaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="geo-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalizationServiceImplTest" />
+      <option name="METHOD_NAME" value="localeUsaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GeoServiceImplTest.byIpUnknown" />
+        <item itemvalue="JUnit.GeoServiceImplTest and 2 more" />
+        <item itemvalue="JUnit.LocalizationServiceImplTest.localeGermanyTest" />
+        <item itemvalue="JUnit.GeoServiceImplTest.byIpMoscow" />
+        <item itemvalue="JUnit.LocalizationServiceImplTest.localeUsaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f1983a-6bc9-4552-bf02-0981e491558e" name="Changes" comment="" />
+      <created>1750771628356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750771628356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/GeoServiceImplTest.java</url>
+          <line>22</line>
+          <properties class="GeoServiceImplTest" method="byIpUnknown">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
