@@ -1,3 +1,5 @@
+package ru.netology.sender;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -21,10 +23,10 @@ public class MessageSenderImplTest {
     private GeoService geoService;
 
     @Mock
-     private LocalizationService localizationService;
+    private LocalizationService localizationService;
 
     @InjectMocks
-     private MessageSenderImpl messageSender;
+    private MessageSenderImpl messageSender;
 
     @Test
     public void sendReturnRussianTextRusIp() {
